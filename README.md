@@ -1,4 +1,4 @@
-This was do during the frequency in the curricular unit, CNI (Computers Networks and Internet), in collaboration with a college friend.
+This was do during the frequency in the curricular unit, CNI (Computers Networks and Internet), in collaboration with a college friend (@gfirme).
 
 The main goal of this project was to creat kind of internet to transmit messages from one application to other, that is, one applications that when in group with various of this application, create a ring and can communicate with each others. 
 The application have some functionalites such as:
